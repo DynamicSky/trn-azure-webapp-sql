@@ -61,4 +61,4 @@ jobs:
           app-name: 'kisstibor-termekkatalogus'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E8708B1F6CE4D9DA9812663D9B064DF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_349BCB0A1F554A3F999DB478C48B3174 }}
